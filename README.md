@@ -4,7 +4,7 @@ Bin Packing Algorithm Implemented In Java
 TINOTENDA MACHIDA
 ......................................................................................................................................
 
-#INTRODUCTION#
+# H1 INTRODUCTION#
 The Bin-Packing problem is a problem whereby we are given several objects, each
 with its own size. We are also given fixed size containers or so-called bins. The
 bins have fixed capacity and we would like to fit in as many of the objects in the
@@ -12,7 +12,7 @@ bins while using the smallest number of bins possible. We would like to minimize
 the number of bins we use.
 This is what’s called the Bin-Packing problem. To put this in mathematical
 terms, we are given a set S, of fixed size objects, each with each own fixed weight
-S1, S2, S3….Sn. We are also given an infinitely large number of bins which all have
+	`code`S1, S2, S3….Sn. We are also given an infinitely large number of bins which all have
 the same fixed size capacity C.
 Our goal is to make sure that we determine the number of bins that it takes
 to fit all the objects in the bins and we also find the best way of doing so using as
