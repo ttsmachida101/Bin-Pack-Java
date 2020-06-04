@@ -1,8 +1,6 @@
 # Bin-Pack-Java
 Bin Packing Algorithm Implemented In Java
 
-PROJECT - A5
-DESIGN AND ANALYSIS OF ALGORITHMS
 TINOTENDA MACHIDA
 ......................................................................................................................................
 
@@ -28,58 +26,9 @@ at hand, we go ahead and get a new one. This will be our approach through and
 through till we run out of all the figures we want to put into bins.
 
 #HARDWARE/ SOFTWARE ENVIRONMENT REQUIREMENTS#
-Through the development of the project, it was top priority to ensure the most
-minimum software and hardware requirements to run the project. The algorithm
-for this project was developed in JAVA and runs through a command line interface
-to get it running. It should run on most modern-day computers easily, if the input
-values for the algorithm are not too large. Nonetheless I will just go through some
-of the requirements needed into to run the actual project
-
 For you to be able to run and install JAVA you are going to need at least the following:
-RAM: 128 MB; 64 MB for Windows XP (32-bit)
+RAM: 128 MB; 
 Disk space: 124 MB
-Browsers: Internet Explorer 7.0 and above, Firefox 3.6 and above
-
-Since the project is developed in JAVA, the host machine will need to be JAVA
-compliant in terms of software the most compatible operating systems are listed
-below
-If you are running any of the following operating systems:
-• Windows 10 (8u51 and above) • Windows 8.x (Desktop)
-4
-• Windows 7 SP1
-• Windows Vista SP2
-• Windows Server 2008 R2 SP1
-(64-bit)
-• Windows Server 2012 and
-2012 R2 (64-bit)
-• Intel-based Mac running Mac
-OS X 10.8.3+, 10.9+
-• Oracle Linux 5.5+1
-• Oracle Linux 6.x (32-bit), 6.x
-(64-bit)2
-• Oracle Linux 7.x (64-
-bit)2 (8u20 and above)
-• Red Hat Enterprise Linux
-5.5+1, 6.x (32-bit), 6.x (64-
-bit)2
-• Red Hat Enterprise Linux 7.x
-(64-bit)2 (8u20 and above)
-• Suse Linux Enterprise Server
-10 SP2+, 11.x
-• Suse Linux Enterprise Server
-12.x (64-bit)2 (8u31 and
-above)
-• Ubuntu Linux 12.04 LTS,
-13.x
-• Ubuntu Linux 14.x (8u25
-and above)
-• Ubuntu Linux 15.04 (8u45
-and above)
-• Ubuntu Linux 15.10 (8u65
-and above)
-Then you should find yourself more than equipped to run the project. If you
-don’t have JAVA on your machine already, here’s a heads up. You are also going to need a you are also going to need JAVA SDK or JRE 1.6 or higher if you
-don’t have it installed already.
 
 #1.SETTING UP
 PRE-LIMINARY REQUIREMENTS
