@@ -4,7 +4,7 @@ Bin Packing Algorithm Implemented In Java
 TINOTENDA MACHIDA
 ......................................................................................................................................
 
-# H1 INTRODUCTION#
+H1#INTRODUCTION#
 The Bin-Packing problem is a problem whereby we are given several objects, each
 with its own size. We are also given fixed size containers or so-called bins. The
 bins have fixed capacity and we would like to fit in as many of the objects in the
