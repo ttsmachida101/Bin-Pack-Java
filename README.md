@@ -1,9 +1,8 @@
 # Bin-Pack-Java
 Bin Packing Algorithm Implemented In 'Java' PROJECT -
 by
+TINO MACHIDA
 
-TINOTENDA MACHIDA
-......................................................................................................................................
 # INSTRUCTION MANUAL
 
 ## INTRODUCTION
